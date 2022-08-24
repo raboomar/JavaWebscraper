@@ -1,0 +1,23 @@
+{
+  "name": "jobwebscraper",
+  "version": "1.0.0",
+  "description": "scrapeing the web for open jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raboomar/JobWebscraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raboomar/JobWebscraper/issues"
+  },
+  "homepage": "https://github.com/raboomar/JobWebscraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.10"
+  }
+}
